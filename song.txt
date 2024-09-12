@@ -1,3 +1,6 @@
 sword and spear
 wall of shields
 this file has been edited, waiting for pull
+
+
+test text for git gui
